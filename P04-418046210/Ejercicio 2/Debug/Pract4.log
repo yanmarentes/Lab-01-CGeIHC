@@ -1,0 +1,37 @@
+﻿  Window.cpp
+C:\Users\ianpa\Documents\UNAM\FI\CGIHC\LAB\Practica4\Pract4\Pract4\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+C:\Users\ianpa\Documents\UNAM\FI\CGIHC\LAB\Practica4\Pract4\Pract4\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+C:\Users\ianpa\Documents\UNAM\FI\CGIHC\LAB\Practica4\Pract4\Pract4\Window.cpp(201,22): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ianpa\Documents\UNAM\FI\CGIHC\LAB\Practica4\Pract4\Pract4\Window.cpp(202,22): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ianpa\Documents\UNAM\FI\CGIHC\LAB\Practica4\Pract4\Pract4\Window.cpp(206,28): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ianpa\Documents\UNAM\FI\CGIHC\LAB\Practica4\Pract4\Pract4\Window.cpp(207,40): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ianpa\Documents\UNAM\FI\CGIHC\LAB\Practica4\Pract4\Pract4\Window.cpp(209,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ianpa\Documents\UNAM\FI\CGIHC\LAB\Practica4\Pract4\Pract4\Window.cpp(210,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  practica4_conjerarquia.cpp
+C:\Users\ianpa\Documents\UNAM\FI\CGIHC\LAB\Practica4\Pract4\Pract4\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica4_conjerarquia.cpp")
+  
+C:\Users\ianpa\Documents\UNAM\FI\CGIHC\LAB\Practica4\Pract4\Pract4\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica4_conjerarquia.cpp")
+  
+C:\Users\ianpa\Documents\UNAM\FI\CGIHC\LAB\Practica4\Pract4\Pract4\practica4_conjerarquia.cpp(34,37): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\ianpa\Documents\UNAM\FI\CGIHC\LAB\Practica4\Pract4\Pract4\practica4_conjerarquia.cpp(200,16): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\ianpa\Documents\UNAM\FI\CGIHC\LAB\Practica4\Pract4\Pract4\practica4_conjerarquia.cpp(242,32): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+C:\Users\ianpa\Documents\UNAM\FI\CGIHC\LAB\Practica4\Pract4\Pract4\practica4_conjerarquia.cpp(242,32): warning C4244:         with
+C:\Users\ianpa\Documents\UNAM\FI\CGIHC\LAB\Practica4\Pract4\Pract4\practica4_conjerarquia.cpp(242,32): warning C4244:         [
+C:\Users\ianpa\Documents\UNAM\FI\CGIHC\LAB\Practica4\Pract4\Pract4\practica4_conjerarquia.cpp(242,32): warning C4244:             _Ty=GLfloat
+C:\Users\ianpa\Documents\UNAM\FI\CGIHC\LAB\Practica4\Pract4\Pract4\practica4_conjerarquia.cpp(242,32): warning C4244:         ]
+C:\Users\ianpa\Documents\UNAM\FI\CGIHC\LAB\Practica4\Pract4\Pract4\practica4_conjerarquia.cpp(244,32): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+C:\Users\ianpa\Documents\UNAM\FI\CGIHC\LAB\Practica4\Pract4\Pract4\practica4_conjerarquia.cpp(244,32): warning C4244:         with
+C:\Users\ianpa\Documents\UNAM\FI\CGIHC\LAB\Practica4\Pract4\Pract4\practica4_conjerarquia.cpp(244,32): warning C4244:         [
+C:\Users\ianpa\Documents\UNAM\FI\CGIHC\LAB\Practica4\Pract4\Pract4\practica4_conjerarquia.cpp(244,32): warning C4244:             _Ty=GLfloat
+C:\Users\ianpa\Documents\UNAM\FI\CGIHC\LAB\Practica4\Pract4\Pract4\practica4_conjerarquia.cpp(244,32): warning C4244:         ]
+C:\Users\ianpa\Documents\UNAM\FI\CGIHC\LAB\Practica4\Pract4\Pract4\practica4_conjerarquia.cpp(338,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ianpa\Documents\UNAM\FI\CGIHC\LAB\Practica4\Pract4\Pract4\practica4_conjerarquia.cpp(340,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Generando código...
+C:\Users\ianpa\Documents\UNAM\FI\CGIHC\LAB\Practica4\Pract4\Pract4\Window.cpp(86): warning C4715: 'Window::Initialise': no todas las rutas de acceso de control devuelven un valor
+  Pract4.vcxproj -> C:\Users\ianpa\Documents\UNAM\FI\CGIHC\LAB\Practica4\Pract4\Debug\Pract4.exe

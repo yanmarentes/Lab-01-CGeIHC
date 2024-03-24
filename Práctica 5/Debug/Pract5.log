@@ -1,0 +1,15 @@
+﻿  Window.cpp
+C:\Users\ianpa\Documents\UNAM\FI\CGIHC\LAB\PRACT5\Pract5\Pract5\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+C:\Users\ianpa\Documents\UNAM\FI\CGIHC\LAB\PRACT5\Pract5\Pract5\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+C:\Users\ianpa\Documents\UNAM\FI\CGIHC\LAB\PRACT5\Pract5\Pract5\Window.cpp(222,22): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ianpa\Documents\UNAM\FI\CGIHC\LAB\PRACT5\Pract5\Pract5\Window.cpp(223,22): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ianpa\Documents\UNAM\FI\CGIHC\LAB\PRACT5\Pract5\Pract5\Window.cpp(227,28): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ianpa\Documents\UNAM\FI\CGIHC\LAB\PRACT5\Pract5\Pract5\Window.cpp(228,40): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ianpa\Documents\UNAM\FI\CGIHC\LAB\PRACT5\Pract5\Pract5\Window.cpp(230,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ianpa\Documents\UNAM\FI\CGIHC\LAB\PRACT5\Pract5\Pract5\Window.cpp(231,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ianpa\Documents\UNAM\FI\CGIHC\LAB\PRACT5\Pract5\Pract5\Window.cpp(88): warning C4715: 'Window::Initialise': no todas las rutas de acceso de control devuelven un valor
+  Pract5.vcxproj -> C:\Users\ianpa\Documents\UNAM\FI\CGIHC\LAB\PRACT5\Pract5\Debug\Pract5.exe
